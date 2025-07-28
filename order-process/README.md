@@ -1,10 +1,10 @@
 # BPMN-модель: Процесс онлайн-заказа от корзины до доставки
 
 ## Технические детали
-- **Инструмент**: Camunda Modeler  
+- **Инструмент**: [[Camunda Modeler](https://camunda.com/)]
 - **Форматы**:
-  - [Файл.bpmn] 
-  - [Файл.png] 
+  - [[order-process/order_process.bpmn](https://github.com/Stacey7423/BPMN-projects/edit/main/order-process/order_process.bpmn)]
+  - [[order-process/order_process.png](https://github.com/Stacey7423/BPMN-projects/blob/main/order-process/order_process.png)]
 - **Нотация**: BPMN 2.0
 
 ## Описание процесса
